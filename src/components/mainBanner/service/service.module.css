@@ -1,0 +1,76 @@
+.service {
+    display: grid;
+    grid-gap: 17px;
+    grid-template-columns: repeat(4, 1fr);
+    margin-bottom: 70px;
+}
+
+.product {
+    position: relative;
+    width: 265px;
+    height: 450px;
+    overflow: hidden;
+    border: 2px solid #FFFFFF14;
+    background: transparent linear-gradient(180deg, #20202000 0%, #202020 100%) 0% 0% no-repeat padding-box;
+}
+
+.product .imgBox {
+    width: 100%;
+    box-sizing: border-box
+}
+
+.product .imgBox img {
+    width: 100%;
+}
+
+.specifies {
+    position: absolute;
+    width: 100%;
+    height: 710px;
+    bottom: -260px;
+    padding: 15px;
+    box-sizing: border-box;
+    transition: 1s;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.product:hover .specifies {
+    bottom: 0;
+    background: transparent linear-gradient(180deg, #202020 0%, #202020 100%) 0% 0% no-repeat;
+}
+
+.specifies p {
+    font: normal 20px Helvetica;
+    padding-bottom: 30px;
+    padding-top: 230px;
+}
+
+.specifies text {
+    font: normal 11px Helvetica;
+    line-height: 1.5;
+}
+
+.service .product:nth-child(2) .specifies p {
+    margin-bottom: 80px;
+}
+
+.specifies div {
+    font: normal 14px Helvetica;
+    padding: 10px 20px;
+    border: solid 1px #fff;
+    cursor: pointer;
+    margin-top: 15px;
+    display: inline-block;
+    box-shadow: inset 0 0 0 0 #0066ff;
+    transition: ease-out 0.4s;
+}
+
+.specifies div:hover {
+    box-shadow: inset 400px 0 0 0 #0066ff;
+}

@@ -1,0 +1,24 @@
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 130px;
+}
+
+.social i {
+    font-size: 20px;
+}
+
+.explore {
+    height: 160px;
+}
+
+.explore text {
+    font: 12px bold;
+}
+
+.link {
+    margin-left: 20px;
+    font: 13px bolder;
+    text-decoration: none;
+}

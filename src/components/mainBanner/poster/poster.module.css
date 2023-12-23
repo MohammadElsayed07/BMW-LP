@@ -1,0 +1,33 @@
+.poster_container {
+    position: relative;
+}
+
+.poster {
+    width: 100%;
+    box-shadow: 0px 20px 30px #0000001A;
+}
+
+.poster_container div {
+    position: absolute;
+    top: 30px;
+    left: 45px;
+}
+
+.poster_container:nth-child(2) {
+    font-size: 50px;
+}
+
+.poster_container p {
+    font-size: 38px;
+    font-family:serif;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    line-height: normal;
+    width: 490px;
+}
+
+.poster_container text, ul {
+    font-size: 12px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+}

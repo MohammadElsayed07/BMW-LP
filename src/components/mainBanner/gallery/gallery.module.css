@@ -1,0 +1,52 @@
+.carousel_item {
+    padding-left: 30px;
+}
+
+.carousel_image {
+    width: 250px;
+}
+
+.data {
+    position: relative;
+    bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    padding-top: 60px;
+    background: transparent radial-gradient(closest-side at 3% 5%, #20202008 0%, #2020201A 100%) 0% 0% no-repeat padding-box;
+}
+
+.title {
+    font: bold 16px Helvetica;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.price {
+    text-align: right;
+    font: bold 12px Helvetica;
+    color: #0066B1;
+    letter-spacing: 0px;
+}
+
+.details {
+    font: 11px Helvetica;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #0066B1;
+    opacity: 0.7;
+}
+
+.model {
+    font: bold 11px Helvetica;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.text {
+    text-align: left;
+    font: 10px Helvetica;
+    letter-spacing: 0px;
+    color: #202020;
+    opacity: 0.7;
+}

@@ -1,0 +1,49 @@
+{
+    "car": [
+        {
+            "id": 1,
+            "title": "BMW 3 Series",
+            "price": "12.000.000 LE",
+            "src": "/cosySec.png",
+            "details": "2.0 320i M Sport Auto xDrive Euro 6 (s/s) 4dr",
+            "model": "2021 12,000 Maroon Petrol Automatic",
+            "text": "the world's leading manufacturer of premium automobiles, and provider of premium financial and mobility services."
+        },
+        {
+            "id": 2,
+            "title": "BMW 3 Series",
+            "price": "12.000.000 LE",
+            "src": "/cosySec.png",
+            "details": "2.0 320i M Sport Auto xDrive Euro 6 (s/s) 4dr",
+            "model": "2021 12,000 Maroon Petrol Automatic",
+            "text": "the world's leading manufacturer of premium automobiles, and provider of premium financial and mobility services."
+        },
+        {
+            "id": 3,
+            "title": "BMW 3 Series",
+            "price": "12.000.000 LE",
+            "src": "/cosySec.png",
+            "details": "2.0 320i M Sport Auto xDrive Euro 6 (s/s) 4dr",
+            "model": "2021 12,000 Maroon Petrol Automatic",
+            "text": "the world's leading manufacturer of premium automobiles, and provider of premium financial and mobility services."
+        },
+        {
+            "id": 4,
+            "title": "BMW 3 Series",
+            "price": "12.000.000 LE",
+            "src": "/cosySec.png",
+            "details": "2.0 320i M Sport Auto xDrive Euro 6 (s/s) 4dr",
+            "model": "2021 12,000 Maroon Petrol Automatic",
+            "text": "the world's leading manufacturer of premium automobiles, and provider of premium financial and mobility services."
+        },
+        {
+            "id": 5,
+            "title": "BMW 3 Series",
+            "price": "12.000.000 LE",
+            "src": "/cosySec.png",
+            "details": "2.0 320i M Sport Auto xDrive Euro 6 (s/s) 4dr",
+            "model": "2021 12,000 Maroon Petrol Automatic",
+            "text": "the world's leading manufacturer of premium automobiles, and provider of premium financial and mobility services."
+        }
+    ]
+}

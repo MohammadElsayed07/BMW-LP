@@ -1,0 +1,32 @@
+.container_search {
+    height: 75px;
+    width: 100%;
+    grid-template-columns: repeat(5, 1fr);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: "#fffff";
+    opacity: 1;
+    backdrop-filter: blur(10px);
+    border-radius: 0;
+
+}
+
+.container_search div {
+    width: 215px;
+}
+
+.container_search div select {
+    cursor: pointer;
+    border-radius: 0;
+}
+
+.container_search div input {
+    border-radius: 0;
+}
+
+.container_search div button {
+    border-radius: 0;
+}
